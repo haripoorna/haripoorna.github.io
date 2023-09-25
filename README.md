@@ -6,42 +6,42 @@ Welcome to my portfolio! This repository serves as a showcase of my skills, expe
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/haripoorna/)
 - **Phone:** +1 (657) 522-2781
 - **Hobbies:**
-  * I'm into Music.
-  * I like to Travel.
-  * I'm into Fitness.
+  * I love travelling, basically hiking.
+  * I play video games a lot.
+  * I work on coding challenges.
 
 
 ## **TECHNICAL BACKGROUND**
 
-### Full Stack Development
+#### Full Stack Development
 - I have over 6.6 years of experience as a Full Stack Developer, specializing in building scalable web and mobile applications, as well as internal tools to improve operational efficiency.
 
-### Web Development
+#### Web Development
 - I have extensive experience in web development using technologies such as MongoDB, Express.js, Angular/React, and Node.js.
 - I have created end-to-end web applications and developed web service components for RESTful APIs using Node.js and Express.js.
 - Proficient in JavaScript, TypeScript, and Node.js for micro-service development and ensuring their security against internal and external threats.
 
-### Serverless Applications
+#### Serverless Applications
 - I excel in building serverless applications using Node.js as the primary programming language. I leverage the asynchronous and event-driven nature of Node.js to create highly scalable and high-performance solutions.
 
-### Microservices
+#### Microservices
 - I am an expert in building optimized microservices and libraries that can be used in both Node and TypeScript environments.
 
-### Front-End Development
+#### Front-End Development
 - I have extensive experience in building web user interfaces (UI) using Angular/React.js. I am well-versed in working with NGRX framework and Redux architecture, using complex Object-Oriented concepts to enhance website performance.
 
-### Data Science
+#### Data Science
 - I have a strong background in data science, including using R programming for statistical analyses and data manipulation.
 - I have explored machine learning algorithms using scikit-learn and TensorFlow in Python, as well as various packages in R for predictive modeling and statistical inference.
 - Proficient in data visualization libraries such as Matplotlib and Seaborn in Python, and ggplot2 in R to create compelling visual representations of complex data sets.
 
-### Cloud Computing (AWS)
+#### Cloud Computing (AWS)
 - I have experience in designing and implementing robust microservices-based architectures using multiple AWS services such as Lambda, DynamoDB, S3, and API Gateway. These architectures resulted in highly available and resilient systems that processed over 1 million transactions per day with 99.99% uptime, particularly in the telecommunication and banking domains.
 
-### DevOps and Tools
+#### DevOps and Tools
 - Proficient in Continuous Delivery build pipeline tools like Git, Docker containerization, and container orchestration technologies like Kubernetes.
 
-### Languages and Technologies
+#### Languages and Technologies
 - Programming Languages: Java, JavaScript, Typescript, Python, R
 - Operating System: Linux, Windows, Mac OS
 - Database: MongoDB, DynamoDB, RedisDB
@@ -87,6 +87,9 @@ Welcome to my portfolio! This repository serves as a showcase of my skills, expe
 - Optimized MongoDB queries for performance.
 
 ## Contact
-Feel free to reach out to me via email at [kalahash@mail.gvsu.edu](mailto:kalahash@mail.gvsu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/harikalahasti/). I'm open to collaboration and always excited to work on new projects!
+Feel free to reach out to me via email at [kalahash@mail.gvsu.edu](mailto:kalahash@mail.gvsu.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/haripoorna/). I'm open to collaboration and always excited to work on new projects!
+
+## Meme
+[meme](https://i.ibb.co/q5J7FY4/music-jokes-gag1839.jpg)
 
 Thank you for visiting my portfolio.
