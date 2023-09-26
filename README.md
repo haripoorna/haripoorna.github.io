@@ -8,7 +8,7 @@ Welcome to my portfolio! This repository serves as a showcase of my skills, expe
 - **Hobbies:**
   * I love travelling, basically hiking.
   * I play video games a lot.
-  * I work on coding challenges.
+  * I work on coding challenges..
 
 
 ## **TECHNICAL BACKGROUND**
